@@ -1,4 +1,4 @@
-# COT_6417_Algorithms_on_Strings_and_Sequences
+# Algorithms_on_Strings_and_Sequences
 
 - Home Work 1:Z-algorithm, Modified Z-algorithm, KMP pattern matching algorithm
 
