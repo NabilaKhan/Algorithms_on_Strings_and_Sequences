@@ -8,3 +8,7 @@
 of S[i, n] and S[j,n]
 
 - Mid-term Exam: Generalized Suffix Tree, Ranking Algorithm
+
+- Final Presentation: Presented the following two papers:
+1. A survey of sequence alignment algorithms for next-generation sequencing
+2. Fast and accurate short read alignment with Burrows–Wheeler transform
